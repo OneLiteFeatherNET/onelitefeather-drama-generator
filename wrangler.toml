@@ -1,6 +1,6 @@
-name = "spigot-drama-generator"
+name = "onelitefeather-drama-generator"
 type = "webpack"
-account_id = "c29688adad64beb8d6171dae3d0c394c"
+account_id = "4f562a3754b386b01953b7f5aed871ea"
 workers_dev = true
 route = ""
-zone_id = ""
+zone_id = "e363f090b0031a291e6f373936e26701"
