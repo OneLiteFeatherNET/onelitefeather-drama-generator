@@ -64,7 +64,7 @@ function renderDrama(message, share, sharePath, teaser) {
         </script>
     </head>
     <body>
-        <h3>Spigot Drama Generator</h3>
+        <h3>OneLiteFeather Drama Generator</h3>
         <h1>${message}</h1>
         <span id="fight"></span>
         <h6>
@@ -73,9 +73,9 @@ function renderDrama(message, share, sharePath, teaser) {
             <br />
             This website is made in jest - don't take it too seriously!
             <br />
-            Developed by mdcfe; PRs welcome on <a href="https://github.com/mdcfe/spigot-drama-generator">GitHub</a>.
+            Developed by mdcfe; PRs welcome on <a href="https://github.com/onelitefeathernet/onelitefeather-drama-generator">GitHub</a>.
             <br />
-            Inspired by (and heavily borrows from) <a href="https://github.com/asiekierka/MinecraftDramaGenerator/">asiekierka's Minecraft Drama Generator</a>.
+            Inspired by (and heavily borrows from) <a href="https://github.com/mdcfe/spigot-drama-generator/">mdcfe's Spigot Drama Generator</a>.
             <br />
             <br />
             <i>Unofficial alternative forms: <a href="https://api.chew.pro/spigotdrama">Chew's JSON API</a> | <a href="https://twitter.com/SpigotDrama">Twitter bot</a></i>
